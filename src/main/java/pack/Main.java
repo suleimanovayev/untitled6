@@ -4,7 +4,7 @@ import lombok.extern.log4j.Log4j2;
 
 @Log4j2
 public class Main {
-    private static final String A = "hjfsdhjfsdjh";
+    private static final String A = "From Laptop";
 
     public String tryuioio() {
         return A;
